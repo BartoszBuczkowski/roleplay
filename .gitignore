@@ -1,6 +1,6 @@
-./cache
-./data
-./modules
+cache
+data
+modules
 altv-server.exe
 server.log
 node_modules
