@@ -7,7 +7,7 @@ esbuild.build({
    target: 'esnext',
    logLevel: 'info',
    format: 'esm',
-   entryPoints: ['./src/client/client.ts', './src/client/views/App.tsx'],
+   entryPoints: ['./src/client/client.ts'],
    outdir: './dist',
    plugins: [
       altvEsbuild({
